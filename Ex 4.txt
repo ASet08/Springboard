@@ -1,0 +1,10 @@
+Part 1:
+1. git branch -d
+
+2. Fast forward merges commits chronologically. Recursive merging merges a branch and all its sub branches 
+
+3. git checkout
+
+4. git branch -d
+
+5. Merge conflicts are caused by merging two different branches that have competing changes.
